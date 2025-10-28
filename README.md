@@ -1,8 +1,22 @@
 <!-- 🌟 PROFILE HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Dega+Sumanth;Full-Stack+Developer+%26+Problem+Solver;Frontend+Engineer+%7C+C%2B%2B+DSA+Enthusiast;Crafting+Beautiful+%26+Intelligent+Digital+Experiences!+🚀" alt="Typing SVG" />
+
+  <!-- Animated Typing Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Dega+Sumanth;💻+Full-Stack+Developer+%26+Problem+Solver;🎯+Frontend+Engineer+🚀" alt="Typing SVG" />
+
+  <!-- Profile Badges -->
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=suman319dega&label=Profile+Views&color=00f5ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=suman319dega&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+ 
+
+  <!-- Decorative Banner -->
+  <br/><br/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700" alt="coding gif" />
+
+  <!-- Divider -->
+  <hr style="width:80%; border: 1px solid #00E5FF; border-radius: 5px;" />
+
 </div>
 
 ---
