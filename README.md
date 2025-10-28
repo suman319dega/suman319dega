@@ -1,85 +1,103 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Dega Sumanth</h1>
-<h3 align="center">💻 Frontend & Web Developer | Passionate about Clean UI & Smooth Animations</h3>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Dega+Sumanth;Frontend+Developer+%26+Creative+UI+Designer;Building+Beautiful+%26+Interactive+Web+Experiences!+🚀" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=suman319dega&label=Profile+Views&color=00f5ff&style=for-the-badge" alt="Profile views" />
+</div>
 
+---
+
+## 👨‍💻 About Me
+✨ Passionate **Frontend & Web Developer** who loves to design clean, interactive, and user-focused web applications.  
+🌱 Currently learning **advanced frontend animations, micro-interactions, and performance optimization**.  
+💡 I enjoy crafting UIs that **feel alive** — smooth transitions, glowing effects, and pixel-perfect designs.  
+💬 Ask me about **HTML, CSS, JavaScript, UI/UX, or design philosophy.**  
+⚡ Fun fact: *I turn complex ideas into stunning web visuals.*
+
+---
+
+## 🧠 My Focus Areas
+<div align="center">
+
+| 🎨 Design | ⚙️ Development | 🚀 Optimization |
+|------------|----------------|----------------|
+| UI/UX Design | Responsive Web Apps | Performance & Animation |
+| Motion Design | Frontend Architecture | Accessibility & SEO |
+| Prototyping | JavaScript/React | Code Readability |
+
+</div>
+
+---
+
+## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding gif"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🔭 I’m currently improving my **problem-solving skills** on [LeetCode](https://leetcode.com/u/degasumanth/)  
-- 🌱 I’m learning **Advanced Frontend Animations & JavaScript Frameworks**  
-- 💡 I love building **interactive, responsive, and animated web apps**  
-- 💬 Ask me about **HTML, CSS, JavaScript, or UI/UX design**  
-- ⚡ Fun fact: *I turn coffee ☕ into creative websites!*
+## ⚙️ GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suman319dega&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suman319dega&theme=radical&hide_border=true&border_radius=15" height="165px"/>
+</div>
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumanth-dega-41a898291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/degasumanth/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/suman319dega" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools  
+## 📊 Languages I Use Most
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman319dega&layout=compact&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
 ---
 
-### ⚙️ GitHub Stats  
+## 🚀 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman319dega&show_icons=true&theme=radical" alt="Sumanth's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman319dega&theme=radical" alt="Sumanth's GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman319dega&theme=radical" alt="profile summary"/>
 </p>
 
----
-
-### 📊 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman319dega&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
----
-
-### 🚀 Featured Projects  
 | 💻 Project | 🧾 Description | 🔗 Link |
 |-------------|----------------|----------|
-| 🎵 **Music Interface** | A sleek, animated web-based music player inspired by Spotify/Apple Music. | [View Repo](https://github.com/suman319dega/Music_interface) |
-| 🍽️ **Restaurant Website** | A responsive, visually appealing restaurant landing page. | [View Repo](https://github.com/suman319dega/Resturant-_Website) |
-| ✅ **My To-Do List** | Responsive To-Do web app with task add/edit/delete features. | [View Repo](https://github.com/suman319dega/My_TO_DO_LIST) |
-| 🐍 **Game Application** | Two-player Snake and Ladders game with smooth animations. | [View Repo](https://github.com/suman319dega/GAME_APPLICATION) |
-| 💡 **LeetCode Solutions** | My personal collection of C++ LeetCode problem solutions. | [View Repo](https://github.com/suman319dega/Leetcode) |
+| 🎵 **Music Interface** | Interactive & animated music player inspired by Spotify. | [View Repo](https://github.com/suman319dega/Music_interface) |
+| 🍽️ **Restaurant Website** | Modern responsive landing page with clean design. | [View Repo](https://github.com/suman319dega/Resturant-_Website) |
+| ✅ **My To-Do List** | Task app with add/edit/delete and smooth animations. | [View Repo](https://github.com/suman319dega/My_TO_DO_LIST) |
+| 🐍 **Game Application** | Animated 2-player Snake and Ladders game. | [View Repo](https://github.com/suman319dega/GAME_APPLICATION) |
+| 💡 **LeetCode Solutions** | Collection of my C++ LeetCode submissions. | [View Repo](https://github.com/suman319dega/Leetcode) |
 
 ---
 
-### 🌀 Fun Zone  
+## 🧑‍💼 Connect with Me
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <a href="https://www.linkedin.com/in/sumanth-dega-41a898291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/degasumanth/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/suman319dega" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 💬 Quote of the Day  
-> “The best error message is the one that never shows up.” — Thomas Fuchs
+## 🎬 Design Philosophy
+> “Good design is invisible — it doesn’t scream, it flows.”  
+> “Animations aren’t decoration; they’re communication.”  
 
 ---
 
-### 👀 Profile Views  
+## 🎉 Fun Zone
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suman319dega&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by!+💙;Let's+build+something+amazing+together!+🚀" />
+</div>
