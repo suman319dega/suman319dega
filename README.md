@@ -123,7 +123,6 @@
 ## 🎉 Fun Zone  
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
 </p>
 
