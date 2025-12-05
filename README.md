@@ -68,16 +68,19 @@
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suman319dega&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=suman319dega&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suman319dega&theme=radical" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suman319dega&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suman319dega&theme=radical" alt="Productive Time"/>
 </div>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suman319dega&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suman319dega&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suman319dega&theme=radical" alt="Most commit language" />
 </p>
+
 
 ---
 
