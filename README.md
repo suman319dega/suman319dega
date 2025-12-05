@@ -68,15 +68,15 @@
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suman319dega&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suman319dega&theme=radical&hide_border=true&border_radius=15" height="165px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suman319dega&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=suman319dega&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman319dega&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suman319dega&layout=compact&theme=radical" />
 </p>
 
 ---
